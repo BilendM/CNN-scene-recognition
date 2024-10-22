@@ -26,11 +26,17 @@ Performance metrics on validation and test sets:
 | Validation | 59.49%         | 86.59%         | 0.60            | 0.59         | 0.60     | 0.86            | 0.86         | 0.86     |
 | Test       | 71.56%         | 94.41%         | 0.73            | 0.71         | 0.70     | 0.94            | 0.94         | 0.94     |
 
-![Model Classification Results](./docs/results.png){ width=200px }
+### Model Classification Results
 
-![Loss Curve](./docs/loss_curve.png){width=200px}
+<img src="./docs/results.png" alt="Model Classification Results" width="224" height="224">
 
-![Top-5 Confusion Matrix on Test set](./docs/confusion_matrix.png) {width=200px}
+### Loss Curve
+
+<img src="./docs/loss_curve.png" alt="Loss Curve" width="224" height="224">
+
+### Confusion Matrix on Validation set
+
+<img src="./docs/confusion_matrix.png" alt="Top-5 Confusion Matrix on Test set" width="224" height="224">
 
 ## Environment Setup
 
