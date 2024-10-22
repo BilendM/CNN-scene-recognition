@@ -163,9 +163,6 @@ cython_debug/
 data/**
 !data/.gitkeep
 
-docs/**
-!docs/.gitkeep
-
 checkpoints/**
 !checkpoints/.gitkeep
 reference/*
