@@ -28,7 +28,9 @@ Performance metrics on validation and test sets:
 
 ![Model Classification Results](./docs/results.png){ width=200px }
 
-![Loss Curve](loss_curve.png){width=200px}
+![Loss Curve](./docs/loss_curve.png){width=200px}
+
+![Top-5 Confusion Matrix on Test set](./docs/confusion_matrix.png) {width=200px}
 
 ## Environment Setup
 
